@@ -8,6 +8,6 @@
 
 
 const urls = [
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://forms.gle/oRZEghNjeaFrsqWh9',
+	'https://forms.gle/eGaL8cNABfqtbgeY8'
 ];
